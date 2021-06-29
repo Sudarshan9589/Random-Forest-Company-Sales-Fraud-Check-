@@ -1,0 +1,2 @@
+# Random-Forest-Company-Sales-Fraud-Check-
+It is an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time. This is my Random Forest(Company Sales &amp; Fraud Check) assignment where I applied many ensemble techniques and I got the high accuracy in XGBM for making the best model in the Company Sales &amp; Fraud Check Dataset.
